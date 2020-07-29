@@ -62,3 +62,8 @@ I don't know what the standard name for it is.
 
 It's closely related to least-squares regression.  Maybe it's just called "least squares regression".  Or maybe
 it's called something like "least squares regression with (word for one of the tricks being used here)"
+
+
+I believe some established work on this topic is contained in https://arxiv.org/abs/1208.6398 --
+but I suspect most of the techniques presented here are far older.
+Any help on tracking down earlier references would be appreciated.
