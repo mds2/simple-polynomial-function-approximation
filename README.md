@@ -1,6 +1,14 @@
 Quick tools for generating polynomial approximations to arbitrary functions
 ==============================
 
+tl/dr;
+-------
+
+Read `poly approx.ipynb` first, `poly approx in higher dimensions.ipynb` is currently unfinished.
+
+What is this?
+-------------
+
 So, frequently, on graphics twitter, a discussion will come up about finding a "good" approximation
 to some function like 
 
